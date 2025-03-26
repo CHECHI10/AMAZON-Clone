@@ -204,7 +204,7 @@ export function renderOrderSummary() {
 };
 
 
-/*
+/*  // To display the "Your cart is empty" on page when theres no item left in the cart.
 export function cartIsEmpty() {
   const isCartEmpty = cart.length === 0;
 
